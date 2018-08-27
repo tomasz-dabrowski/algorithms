@@ -1,4 +1,4 @@
-# Noralizacja
+# Normalizacja
 
 1. W pliku dane.xls znajdują się dane opisujące pewne próbki. Każda próbka jest opisana czterema parametrami. Normalizujemy dane (parametry opisujące próbki) do następujących zakresów: [0 1]; [1 5]; [-1 1].
 
