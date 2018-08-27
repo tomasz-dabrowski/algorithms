@@ -7,7 +7,7 @@
 
 <img src="01.png" />
 
-2. Generujemy rysunek, na którym znajduja sie 3 obrazy funkcji f(x,y)=sin(3*sin(x2 + y2)) dla wartości x i y z zakresu od -1 do 1
+2. Generujemy rysunekz 3-ema wykresami f(x,y)=sin(3*sin(x2 + y2)) dla wartości x i y z zakresu od -1 do 1
 - w formie kolorowej powierzchni, dla osi x i y sformatowanych w zakresie od -2 do 2
 - kolorowa powierzchnia z uwzglednieniem odbicia swiatla i efektem cieniowania
 - w formie siatki, ze slupkiem palety barw
